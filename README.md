@@ -18,3 +18,5 @@ TECHNOLOGIES USED:
 3. DataBase:
 
   PostgreSQL: Relational DB for storing user data and resumes
+
+Deployment link:https://resume-builder-ravi.onrender.com/
